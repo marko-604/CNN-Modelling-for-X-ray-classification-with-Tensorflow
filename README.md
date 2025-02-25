@@ -28,7 +28,7 @@ To train the CNN, run:
 python train.py
 ```
 
-##Results & Performance
+## Results & Performance
 
 Training Accuracy: Achieves high classification performance.
 Feature Representation: CNN features are visualized using t-SNE.
