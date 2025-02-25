@@ -31,4 +31,5 @@ python train.py
 ## Results & Performance
 
 Training Accuracy: Achieves high classification performance.
+
 Feature Representation: CNN features are visualized using t-SNE.
