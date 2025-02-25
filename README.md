@@ -18,9 +18,17 @@ Ensure you have Python 3.8+ installed. Then install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## Running the Model
 
-To train the CNN, run:
+Ensure the training folder follows: " Dataset 1\\Colorectal Cancer ", where train.py is in the same directory as "Dataset 1".
 
+To train the CNN, run:
+```bash
 python train.py
+```
+
+##Results & Performance
+
+Training Accuracy: Achieves high classification performance.
+Feature Representation: CNN features are visualized using t-SNE.
