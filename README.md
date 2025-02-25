@@ -12,3 +12,7 @@ This repository contains a deep learning model using **ResNet50** to classify co
 ## Training Process
 ```bash
 python train.py
+
+---
+git clone https://github.com/marko-604/CNN-Modelling-for-X-ray-classification-with-Tensorflow.git
+pip install -r requirements.txt
