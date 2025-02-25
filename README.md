@@ -10,9 +10,9 @@ This repository contains a deep learning model using **ResNet50** to classify co
 - **Small Dataset Mode**: Quickly test model behaviour with a smaller dataset.
 ---
 
-##Installation
+## Installation
 
-###Prerequisites
+### Prerequisites
 
 Ensure you have Python 3.8+ installed. Then install dependencies using:
 
