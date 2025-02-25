@@ -1,0 +1,7 @@
+numpy
+matplotlib
+torch
+scikit-learn
+tensorflow
+keras
+shutil
